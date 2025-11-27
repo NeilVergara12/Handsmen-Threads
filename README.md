@@ -1,6 +1,6 @@
-# 👔 HandsMen Threads – Elevating the Art of Sophistication in Men's Fashion
+# 🥼 HandsMen Threads – Elevating the Art of Sophistication in Men's Fashion
 
-HandsMen Threads, a leading brand in men’s fashion, is using Salesforce to improve how the business runs and serve customers better. This project focuses on creating a strong and organized system to manage important information like products, stock, and orders, making sure data flows smoothly between departments.
+HandsMen Threads, a rising brand in men’s fashion, uses Salesforce to make daily work faster, more organized, and more accurate. This project aims to build a system that keeps customer records, product details, stock levels, and orders in one place so all departments can work smoothly together.
 
 ---
 
@@ -8,62 +8,62 @@ HandsMen Threads, a leading brand in men’s fashion, is using Salesforce to imp
 
 ### 🏗️ Project Phases
 
-**Phase 1: Architecture & Planning**  
-- Identify necessary Salesforce objects, fields, relationships and formula fields.
-- Define validation rules, flows, Apex triggers, batch jobs.  
-- Plan workflows, email templates for notifications and customer communication.  
+**Phase 1: Planning & System Design**  
+- Identify the needed Salesforce objects, fields, and relationships.
+- Set rules for correct data entry and plan automations like flows and triggers.
+- Prepare email templates and workflow ideas for customer messages and updates.
 
 **Phase 2: Development**  
-- Create objects, fields, and relationships according to the data model  
-- Implement automation using Flows, Apex Triggers, and Process Builder.  
-- Configure email templates and notifications.  
-- Develop batch jobs for recurring operations. 
+- Build the custom objects, fields, and connections based on the data model.
+- Create automation using Flows, Apex Triggers, and Process Builder.
+- Set up email templates and notification alerts for important actions.
+- Add scheduled processes for tasks that need to run regularly.
 
-**Phase 3: Testing & QA**  
-- Conduct unit testing for objects and automation  .
-- Perform end-to-end sample testing.  
-- Validate system performance and security checks.
+**Phase 3: Testing & Quality Check**  
+- Test objects, formulas, flows, and triggers to ensure everything works well.
+- Perform complete testing from start to finish using sample data. 
+- Check system speed, accuracy, and security features.
 
-**Phase 4: Deployment & Training**  
-- Deploy Salesforce solution to production.  
-- Provide user training on new functionality  
-- Monitor post-go-live support and monitoring.  
+**Phase 4: Deployment & User Training**  
+- Move the Salesforce setup into the main working environment.
+- Teach staff how to use the new CRM features and tools.
+- Provide support after launch to fix early issues and guide users.
 
 ---
 
-## ⚡ Key Automated Processes
+## 🗝️ Key Automated Processes
 
 **📧 Automated Customer Notifications**  
-Customers receive updates automatically on order confirmation and key account activities.
+The system sends emails automatically for order confirmations and other important updates.
 
 **⭐ Loyalty Program**  
-Customer loyalty levels update based on purchase history, supporting personalized rewards.
+Customer loyalty status updates based on their total purchases, helping reward frequent buyers.
 
 **📦 Inventory Alerts**  
-Stock levels trigger notifications to warehouse teams to prevent stockouts.
+When stock becomes low, the system notifies the inventory team to restock quickly.
 
 **⏰ Scheduled Batch Updates**  
-Every night, the system updates orders, stock levels, and financial records automatically.
+Every day, the system refreshes data for orders, inventory, and customer activity.
 
 ---
 
 ## 📦 Deliverables
 
-- Salesforce Solution Design Document (SDD) including:  
-  - Object Model  
-  - Entity Relationship Diagram (ERD)  
-  - Automation Strategy  
-- Configured Salesforce org with automation processes and email notifications  
-- End-user training guides and support documentation  
+- Complete Salesforce Solution Design Document (SDD)
+- Object model and ERD diagrams
+- Entity Relationship Diagram (ERD)
+- Automation and workflow design plans  
+- Configured Salesforce CRM with active flows, triggers, and notifications
+- Training materials and user support guides 
 
 ---
 
 ## 📚 Learning Outcomes
 
-- Salesforce Data Modeling & Relationship Management  
-- Validation Rules & Data Quality Practices  
-- Lightning App Builder for custom apps and pages  
-- Record-Triggered Flows & Process Automation  
-- Apex & Apex Triggers for complex business logic  
-- Batch Processing & Asynchronous Operations  
+- Understanding Salesforce data modeling and object relationships 
+- Creating validation rules and keeping data clean
+- Using Lightning App Builder to make custom pages
+- Building record-triggered flows and automations
+- Writing Apex code and triggers for advanced logic 
+- Handling batch jobs and scheduled operations for routine tasks
 
